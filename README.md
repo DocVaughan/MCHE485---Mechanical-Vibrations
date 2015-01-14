@@ -19,7 +19,6 @@ For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
 * [Rotating Imbalance][10]  
 * [Dry Friction][11]  
 * [Mass-Spring-Damper with Multiple Inputs][12]  
-* [Supplemental Problem Helper][13]  
 * [Fourier Analysis][14]  
 * [Interactive Fourier Analysis][15]  
 * [Symbolic Fourier Analysis][16]  
@@ -40,7 +39,6 @@ For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
    [10]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Rotating%20Imbalance.ipynb
    [11]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Mass%20Spring%20-%20Free%20Vibration%20with%20Friction.ipynb
    [12]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Mass-Spring-Damper%20with%20Disturbance.ipynb
-   [13]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/MCHE485%20-%20Supplemental%20Problems%20-%20Fall%202014.ipynb (IPython Notebook for Supplemental Problems)
    [14]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Fourier%20Analysis.ipynb
    [15]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Interactive%20Fourier%20Analysis.ipynb (Interactive Fourier Analysis)
    [16]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Fourier%20Analysis%20-%20Symbolic.ipynb (Symbolic Fourier Analysis using SymPy)
