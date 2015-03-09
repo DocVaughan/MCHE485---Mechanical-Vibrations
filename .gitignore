@@ -1,1 +1,3 @@
 **/*.ipynb_checkpoints
+/IPython%20Notebooks/Mini-Project%201/*.ipynb_checkpoints
+.ipynb_checkpoints
