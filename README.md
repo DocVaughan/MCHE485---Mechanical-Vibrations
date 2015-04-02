@@ -25,6 +25,7 @@ For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
 * [Eigenvalues/Eigenvectors][17]  
 * [Vibration Absorbers][18]  
 * [Multi-DOF Example][19]  
+* ["Zeros" in a Forced Response][20]
 
 
    [1]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/MCHE485%20-%20Introduction.ipynb (Introduction Notebook)
@@ -45,6 +46,7 @@ For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
    [17]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Eigenvalue-Eigenvector%20Analysis.ipynb
    [18]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Vibration%20Absorbers.ipynb
    [19]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/MultiDOF%20Example.ipynb (Multi-DOF Example)
+   [20]: http://nbviewer.ipython.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2015/IPython%20Notebooks/Zeros%20in%20a%20Forced%20Response.ipynb (Zeros in a Forced Response)
 
 
 ### Licenses
