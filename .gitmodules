@@ -1,0 +1,3 @@
+[submodule "LaTeX"]
+	path = LaTeX
+	url = https://github.com/DocVaughan/MCHE---LaTeX
