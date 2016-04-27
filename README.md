@@ -29,7 +29,7 @@ For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
 * [Vibration Absorbers][18]  
 * [Multi-DOF Example][19]  
 * ["Zeros" in a Forced Response][20]
-* [Modal Damping Approximation[23]
+* [Modal Damping Approximation][23]
 
 
    [1]: http://nbviewer.jupyter.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2016/Jupyter%20Notebooks/MCHE485%20-%20Introduction.ipynb (Introduction Notebook)
