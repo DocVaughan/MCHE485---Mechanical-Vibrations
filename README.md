@@ -29,6 +29,7 @@ For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
 * [Vibration Absorbers][18]  
 * [Multi-DOF Example][19]  
 * ["Zeros" in a Forced Response][20]
+* [Modal Damping Approximation][23]
 
 
    [1]: http://nbviewer.jupyter.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2016/Jupyter%20Notebooks/MCHE485%20-%20Introduction.ipynb (Introduction Notebook)
@@ -53,6 +54,7 @@ For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
    [20]: http://nbviewer.jupyter.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2016/Jupyter%20Notebooks/Zeros%20in%20a%20Forced%20Response.ipynb (Zeros in a Forced Response)
    [21]: http://nbviewer.jupyter.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2016/Jupyter%20Notebooks/FFT%20-%20Introduction.ipynb (Introduction to the FFT)
    [22]: http://nbviewer.jupyter.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2016/Jupyter%20Notebooks/FFT%20-%20Interactive.ipynb (Interactive FFT)
+   [23]: http://nbviewer.jupyter.org/github/DocVaughan/MCHE485---Mechanical-Vibrations/blob/Spring2016/Jupyter%20Notebooks/Two-Mass-Spring-Damper%20-%20Modal%20Damping%20Approx.ipynb (Modal Damping Approximation)
 
 ### Licenses
 Code is licensed under a 3-clause BSD-style license. See the licenses/LICENSE.md file.
