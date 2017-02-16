@@ -28,11 +28,12 @@
     
     h1 {
         font-family: Computer Modern;
+        margin-top:100px;
     }
     
     h4{
         margin-top:12px;
-        margin-bottom: 30px;
+        margin-bottom: 3px;
        }
 
     div.text_cell_render{
