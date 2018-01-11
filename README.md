@@ -5,6 +5,8 @@ This repository contains code used during the Spring 2018 semester of *MCHE485: 
 
 For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DocVaughan/MCHE485---Mechanical-Vibrations/Spring2018?filepath=Jupyter%20Notebooks)
+
 ### Core Topic Jupyter Notebooks
 
 * [Introduction][1]  
