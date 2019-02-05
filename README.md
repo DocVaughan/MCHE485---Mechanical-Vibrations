@@ -1,11 +1,11 @@
 ## MCHE485: Mechanical Vibrations
 
 
-This repository contains code used during the Spring 2018 semester of *MCHE485: Mechanical Vibrations* at UL Lafayette. It will contain Python code, [Jupyter Notebooks](http://jupyter.org), supporting data, and [LaTeX](http://www.latex-project.org) templates.
+This repository contains code used during the Spring 2019 semester of *MCHE485: Mechanical Vibrations* at UL Lafayette. It will contain Python code, [Jupyter Notebooks](http://jupyter.org), supporting data, and [LaTeX](http://www.latex-project.org) templates.
 
 For more information see: http://www.ucs.louisiana.edu/~jev9637/MCHE485.html
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DocVaughan/MCHE485---Mechanical-Vibrations/Spring2018?filepath=Jupyter%20Notebooks)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DocVaughan/MCHE485---Mechanical-Vibrations/Spring2019?filepath=Jupyter%20Notebooks)
 
 ### Core Topic Jupyter Notebooks
 
